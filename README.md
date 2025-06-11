@@ -1,4 +1,4 @@
-# WIP:  about half-done with this readME.  The scripts are done.
+
 # Introduction
 
 This project is an examination of the market for populat data roles in the year 2023 conducted using SQL, done for the purpose of gaining valuable and practical experience in SQL queries.  You can view these queries in the [project_queries](/project_queries/) folder.
